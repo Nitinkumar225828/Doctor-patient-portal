@@ -2,6 +2,8 @@
 
 Doctor/patient appointment portal built with JSP, Servlets, Tomcat, and JDBC.
 
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/Nitinkumar225828/Doctor-patient-portal)
+
 ## Demo Login
 
 - Admin: `admin@gmail.com` / `admin`
