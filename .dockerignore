@@ -1,0 +1,9 @@
+target
+tomcat-base
+tomcat-instance
+mysql-local/data
+*.log
+localtunnel.out
+localtunnel.err
+DbPing.java
+DbPing.class

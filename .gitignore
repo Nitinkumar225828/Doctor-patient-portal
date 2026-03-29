@@ -1,0 +1,14 @@
+target/
+build-check/
+tomcat-base/
+tomcat-instance/
+mysql-local/
+mysql-reset-init.sql
+*.log
+localtunnel.out
+localtunnel.err
+DbPing.java
+DbPing.class
+.classpath
+.project
+.settings/
